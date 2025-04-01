@@ -1,1 +1,3 @@
 # learn-githup
+
+We have worked in almost 100 countries over the past 15 years, with a broad range of clients, including FCDO, UNICEF, The Bill & Melinda Gates Foundation, the EdTech Hub, NORAD, the EU, KHDA, and ministries of education in contexts as diverse as the UK, Sierra Leone, Abu Dhabi, and Malawi. We work with governments and development partners to strengthen education across the Middle East and Sub-Saharan Africa, raising standards through accountability and inspections, developing teachers and leaders, and supporting girls to stay in education. Our consultancy team offers tailored advice, technical assistance, and delivery and project management support to school systems globally. In 2022/23, we positively impacted
